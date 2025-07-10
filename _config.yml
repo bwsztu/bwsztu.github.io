@@ -28,9 +28,9 @@ author:
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=2O1BOpEAAAAJ"
-  dblp             : ""
-  researchgate     : ""
-  email            : "zhangbowen@sztu.edu.cn"
+  dblp             : 
+  researchgate     : 
+  # email            : "zhangbowen@sztu.edu.cn"
   uri              : 
   bitbucket        :
   codepen          :

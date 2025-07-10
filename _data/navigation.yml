@@ -6,14 +6,14 @@ main:
   - title: "Publications"
     url: "/publications"
 
-  - title: "Talks"
-    url: "/talks"
+  # - title: "Talks"
+  #   url: "/talks"
 
   # - title: "Teaching"
   #   url: "/teaching"
 
-  - title: "Students"
-    url: "/students"
+  # - title: "Students"
+  #   url: "/students"
 
   - title: "Services"
     url: "/services"
@@ -21,5 +21,5 @@ main:
   #- title: "Blogs"
   #  url: "/blogs"
 
-  - title: "CV"
-    url: "/cv"
+  # - title: "CV"
+  #   url: "/cv"

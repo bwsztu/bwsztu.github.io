@@ -32,5 +32,5 @@ permalink: /services
 - IJCNN, 2025
 - IEEE MLSP, 2025
 
-## Organizing Committee
-- 2023, China National Computer Conference 2023 - Sixth Forum on Smart Cities and Urban Computing
+<!-- ## Organizing Committee
+- 2023, China National Computer Conference 2023 - Sixth Forum on Smart Cities and Urban Computing -->
