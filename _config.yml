@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Bowen Zhang"
   avatar           : "images/zbw/profile.jpg"
-  bio              : "Tenured Associate Professor at SZTU. Foucsing on Social Spatio Computing."
+  bio              : "Tenured Associate Professor at SZTU. My research focuses on social media computing, spatiotemporal data analysis, and the application of large language models in real-world scenarios."
   location         : "Shenzhen, China"
   employer         : 
   pubmed           : 

@@ -25,7 +25,8 @@ My research areas are social media analysis, spatio-temporal data mining and lar
     <p>• <em>2025.01</em>, 🎉 One paper was accepted to AAAI'2025 and selected as the oral presentation paper, congratulations to our co-authors Zhichao and Guangning</p> 
     <p>• <em>2024.12</em>, 🎉 Three papers was accepted to ICASSP'2025, congratulations to Yunlong and Xu Li.</p>
     <p>• <em>2024.09</em>, 🎉 One paper was accepted to KBS Journal.</p>
-    <p>• <em>2024.03</em>, 🎉 Two papers was accepted to AAAI'2024, congratulations to Yunlong and Xu Li.</p>
+    <p>• <em>2024.03</em>, 🎉 Two papers was accepted to AAAI'2024.</p>
+    <p>• <em>2024.03</em>, 🎉 Three papers was accepted to COLING'2024, congratulations to Daijun and Fuqiang.</p>
     <p>• <em>2023.12</em>, 🎉 One paper was accepted to EMNLP'2023.</p>
   </div>
 </div>

@@ -69,9 +69,13 @@ permalink: /publications
 
 - Baoquan Zhang, Chuyao Luo, Demin Yu, Xutao Li, Huiwei Lin, Yunming Ye, `Bowen Zhang`📧. Metadiff: Meta-learning with conditional diffusion for few-shot learning. AAAI, 2024. <a href="https://ojs.aaai.org/index.php/AAAI/article/view/29608"><i style="font-size: 20px;" class="fa fa-file-pdf"></i></a>
 
-- Daijun Ding, Li Dong, Zhichao Huang, Guangning Xu, Xu Huang, Bo Liu, Liwen Jing, and `Bowen Zhang`📧. Edda: A encoder-decoder data augmentation framework for zero-shot stance detection. In COLING, 2024. <a href="https://arxiv.org/abs/2403.15715"><i style="font-size: 20px;" class="fa fa-file-pdf"></i></a> <a href="https://github.com/Szu-Ddj/EDDA"><i style="font-size: 20px;" class="fab fa-fw fa-github"></i></a>
+- Daijun Ding, Li Dong, Zhichao Huang, Guangning Xu, Xu Huang, Bo Liu, Liwen Jing, and `Bowen Zhang`📧. Edda: A encoder-decoder data augmentation framework for zero-shot stance detection. COLING, 2024. <a href="https://arxiv.org/abs/2403.15715"><i style="font-size: 20px;" class="fa fa-file-pdf"></i></a> <a href="https://github.com/Szu-Ddj/EDDA"><i style="font-size: 20px;" class="fab fa-fw fa-github"></i></a>
 
 - Guangning Xu, Michael K Ng, Yunming Ye, Xutao Li, Ge Song, `Bowen Zhang`, Zhichao Huang. TLS-MWP: A Tensor-based Long-and Short-range Convolution for Multiple Weather Prediction. IEEE Transactions on Circuits and Systems for Video Technology, 2024. <a href="https://drive.google.com/file/d/1EDMKQTEtsZUWJU2XlBRedbiJ7U2-uTnB/view"><i style="font-size: 20px;" class="fa fa-file-pdf"></i></a> <a href="https://github.com/xuguangning1218/TLS_MWP"><i style="font-size: 20px;" class="fab fa-fw fa-github"></i></a>
+
+- Fuqiang Niu, Min Yang, Ang Li, Baoquan Zhang, Xiaojiang Peng, `Bowen Zhang`📧. A challenge dataset and effective models for conversational stance detection. COLING, 2024. <a href="https://arxiv.org/pdf/2403.11145"><i style="font-size: 20px;" class="fa fa-file-pdf"></i></a> <a href="https://github.com/nfq729/MT-CSD"><i style="font-size: 20px;" class="fab fa-fw fa-github"></i></a>
+
+- Shiwen Ni, Minghuan Tan, Yuelin Bai, Fuqiang Niu, Min Yang, `Bowen Zhang`, Ruifeng Xu, Xiaojun Chen, Chengming Li, Xiping Hu, Ye Li, Jianping Fan. MoZIP: A multilingual benchmark to evaluate large language models in intellectual property. COLING, 2024. <a href="https://arxiv.org/pdf/2402.16389"><i style="font-size: 20px;" class="fa fa-file-pdf"></i></a> <a href="https://github.com/AI-for-Science/MoZi"><i style="font-size: 20px;" class="fab fa-fw fa-github"></i></a>
 
 - Daijun Ding, Xianghua Fu, Xiaojiang Peng, Xiaomao Fan, Hu Huang, `Bowen Zhang`📧. Leveraging chain-of-thought to enhance stance detection with prompt-tuning. Mathematics, 2024. <a href="https://www.mdpi.com/2227-7390/12/4/568"><i style="font-size: 20px;" class="fa fa-file-pdf"></i></a>
 
