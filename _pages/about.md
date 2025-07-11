@@ -11,7 +11,7 @@ redirect_from:
 # 😀 About Me
 I am now a tenured associate professor at Shenzhen Technology University. I received my Ph.D. from <a href="http://en.hitsz.edu.cn/">Harbin Institute of Technology, Shenzhen.</a>
 
-My research areas are social media analysis, spatio-temporal data mining and logical reasoning.
+My research focuses on social media computing, spatiotemporal data analysis, and the application of large language models in real-world scenarios.
 
 >  <span>**I am always open to collaborating with remote students and researchers who are interested in social media analysis, spatio-temporal data mining and large language model, etc. Please feel free to contact me.**</span> 
 ```zhangbowen@sztu.edu.cn```
