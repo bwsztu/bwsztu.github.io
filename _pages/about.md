@@ -17,16 +17,21 @@ My research areas are social media analysis, spatio-temporal data mining and lar
 ```zhangbowen@sztu.edu.cn```
 
 # 🔥 News
-<div style="height: 150px; overflow-y: scroll;">
+<div id="news" class="news-section">
   <div styple="padding-left: 1em;">
-    <p>• <em>2025.04</em>, 🎉 Two papers was accepted to Information Fusion, congratulations to Jun Ma and Wenfeng.</p>
-    <p>• <em>2025.03</em>, I became a RUNYUAN Principal Investigator.</p>
+    <p>• <em>2025.05</em>, 🎉 Two papers were accepted to Information Fusion (IF 15.5), congratulations to Jun Ma and Wenfeng.</p>
+    <p>• <em>2025.03</em>, 🎉 One paper was accepted to Pattern Recognition (IF 7.6).</p> 
+    <p>• <em>2025.03</em>, 🎉 One paper was accepted to Neural Networks (IF 6.3).</p> 
+    <p>• <em>2025.03</em>, 🎉 One paper was accepted to AAAI'2025 and selected as the oral presentation paper.</p> 
     <p>• <em>2025.01</em>, 🎉 One paper was accepted to WWW'2025, congratulations to Fuqiang and Yi Yang.</p> 
-    <p>• <em>2025.01</em>, 🎉 One paper was accepted to AAAI'2025 and selected as the oral presentation paper, congratulations to our co-authors Zhichao and Guangning</p> 
-    <p>• <em>2024.12</em>, 🎉 Three papers was accepted to ICASSP'2025, congratulations to Yunlong and Xu Li.</p>
-    <p>• <em>2024.09</em>, 🎉 One paper was accepted to KBS Journal.</p>
-    <p>• <em>2024.03</em>, 🎉 Two papers was accepted to AAAI'2024, congratulations to Yunlong and Xu Li.</p>
-    <p>• <em>2023.12</em>, 🎉 One paper was accepted to EMNLP'2023.</p>
+    <p>• <em>2025.03</em>, 🎉 One paper was accepted to IEEE Transactions on Geoscience and Remote Sensing (IF 8.6).</p> 
+    <p>• <em>2025.01</em>, 🎉 I was honored to be selected for the RUNYUAN Talent Program as a Principal Investigator.</p>
+    <p>• <em>2024.12</em>, 🎉 Three papers were accepted by ICASSP'2025, congratulations to Yunlong and Xu Li.</p>
+    <p>• <em>2024.10</em>, 🎉 One paper was accepted by to ACM MM.</p>
+    <p>• <em>2024.09</em>, 🎉 One paper was accepted by to IEEE Transactions on Computational Social Systems.</p>
+    <p>• <em>2024.08</em>, 🎉 One paper was accepted by to IEEE Transactions on Circuits and Systems for Video Technology.</p>
+    <p>• <em>2024.06</em>, 🎉 Three papers were accepted by to COLING'2024, congratulations to Fuqiang and Daijun.</p>
+    <p>• <em>2024.03</em>, 🎉 Two papers were accepted to AAAI'2024, congratulations to Xu.</p>
   </div>
 </div>
 
@@ -62,5 +67,7 @@ My research areas are social media analysis, spatio-temporal data mining and lar
 - [Min Yang](https://scholar.google.com/citations?user=_wop6KgAAAAJ&hl=en), Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences
 - [Xiaojun Chen](https://scholar.google.com/citations?user=yAjyrwkAAAAJ&hl=en), Shenzhen University
 - [Jinzhou Cao](https://scholar.google.com/citations?user=htwWowwAAAAJ&hl=en), Shenzhen Technology University
+- [Guangning Xu](https://scholar.google.com/citations?user=ZPE_bU8AAAAJ&hl=zh-CN), Hong Kong Baptist University
+- [Zhichao Huang](https://github.com/iceshzc/iceshzc.github.io), JD.com
 
 <!-- <img class="svg" src="/images/sztu_logo.png" width="60pt"> <img class="svg" src="/images/hit_logo.jpeg" width="77pt"> <img class="svg" src="/images/zbw/ustc-logo.png" width="70pt"> <img class="svg" src="/images/zbw/szu_logo.png" width="70pt"> -->
