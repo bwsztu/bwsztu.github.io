@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 # 😀 About Me
-I am now a tenured associate professor at Shenzhen Technology University. I received my Ph.D. from <a href="http://en.hitsz.edu.cn/">Harbin Institute of Technology, Shenzhen.</a>
+I am now a tenured associate professor at Shenzhen Technology University. I received my Ph.D. from <a href="http://en.hitsz.edu.cn/">Harbin Institute of Technology (HIT)</a>, under the supervision of Prof. Xiaofei Xu (former Vice President of HIT and CCF Fellow) and Prof. Yunming Ye (Dean of the School of Computer Science at HIT Shenzhen).
 
 My research focuses on social media computing, spatiotemporal data analysis, and the application of large language models in real-world scenarios.
 
