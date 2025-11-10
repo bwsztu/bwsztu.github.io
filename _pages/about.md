@@ -19,6 +19,7 @@ My research focuses on social media computing, spatiotemporal data analysis, and
 # 🔥 News
 <div id="news" class="news-section">
   <div styple="padding-left: 1em;">
+    <p>• <em>2025.11</em>, 🎉 Four papers were accepted to AAAI'2026, congratulations to Jun Ma and Yisha.</p> 
     <p>• <em>2025.08</em>, 🎉 One paper was accepted to EMNLP'2025, congratulations to Yi Yang.</p> 
     <p>• <em>2025.06</em>, 🎉 One paper was accepted to KDD.</p>
     <p>• <em>2025.05</em>, 🎉 Two papers were accepted by Information Fusion (IF 15.5), congratulations to Jun Ma and Wenfeng.</p>
@@ -73,4 +74,5 @@ My research focuses on social media computing, spatiotemporal data analysis, and
 - [Zhichao Huang](https://github.com/iceshzc/iceshzc.github.io), JD.com
 
 <!-- <img class="svg" src="/images/sztu_logo.png" width="60pt"> <img class="svg" src="/images/hit_logo.jpeg" width="77pt"> <img class="svg" src="/images/zbw/ustc-logo.png" width="70pt"> <img class="svg" src="/images/zbw/szu_logo.png" width="70pt"> -->
+
 
